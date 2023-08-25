@@ -1,3 +1,4 @@
 # AbdulREHMAN-demo
 My First Github Repository!
-Auther Name Abdul Rehman
+<br>
+Auther: Name Abdul Rehman
